@@ -29,3 +29,9 @@ migration as the web server is expected to run on a virtual machine. Due to the 
 The difficulties in developing such a system include the virtualization of airways and hotel services for a specific country. The user might wish to visit somewhere which is not present in the system database. Thus, the addition of locations, airways, and hotel reservations can be challenging for an admin to fulfill the user’s request, especially when the demand for such a trip to those countries is very low.
 Moreover, security is not a primary concern for this system. The database may store passwords in plain text and the password recovery feature may not
 be present nor lockout after numerous invalid login attempts. As a result, the system may not work properly in terms of security.
+
+
+## Links
+• Overleaf: https://www.overleaf.com/project/5fb7c9e08944b8ab2dafb449, Trello: https://trello.com/b/6jtbOAzI/travelagencysystem, 
+
+• Slack: https://app.slack.com/client/T01EDNGNWP7/C01EH1RLEG3
