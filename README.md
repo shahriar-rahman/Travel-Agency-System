@@ -25,6 +25,8 @@ Even they must know to add or remove any features.
 The website is expected to be hosted on an open-source cross-platform web server called XAMPP Server, allowing for easier and extremely fast web 
 migration as the web server is expected to run on a virtual machine. Due to the web nature of the system, it allows better compatibility with any type of operating system with internet access and at least one web browser. Furthermore, with Mozilla Firefox being one of the most used browsers in the world, the primary derivative is to prioritize optimum compatibility and efficient optimization procedure toward the usage of the specified browser.
 
+![alt text](https://github.com/shahriar-rahman/Travel-Agency-System/blob/main/Documentation/Database-Schema-Diagram.JPG)
+
 ## Constraints
 The difficulties in developing such a system include the virtualization of airways and hotel services for a specific country. The user might wish to visit somewhere which is not present in the system database. Thus, the addition of locations, airways, and hotel reservations can be challenging for an admin to fulfill the user’s request, especially when the demand for such a trip to those countries is very low.
 Moreover, security is not a primary concern for this system. The database may store passwords in plain text and the password recovery feature may not
